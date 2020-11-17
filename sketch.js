@@ -86,7 +86,7 @@ trex.setCollider("rectangle",0,0,trex.width,trex.height);
 
 function draw() {
   
-  background("grey");
+  background("ligthblue");
   //displaying score
   text("Score: "+ score, 500,50);
   
